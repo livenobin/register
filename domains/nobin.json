@@ -1,0 +1,13 @@
+{
+    "owner": {
+        "username": "livenobin",
+        "email": "livenobin@gmail.com"
+    },
+    "record": {
+        "A": "91.229.90.152",
+        "NS": [
+          "ns1.justhost.ru",
+          "ns2.justhost.ru"
+        ]        
+    }
+}
